@@ -1,4 +1,5 @@
 
+
 # 🚀 Markdown 語法速查 & 趣味筆記
 
 > 最後更新：2026-03  
@@ -44,7 +45,7 @@ __下劃線粗體__ （兩個下劃線）
 
 `單行代碼` 適合命令快速展示 → `git commit -m "fix: 修復bug"`
 
-```python
+```python {.line-numbers}
 # 多行代碼 + 趣味註釋
 print("Hello Markdown！🌟")
 
